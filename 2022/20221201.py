@@ -20,7 +20,7 @@ def hovud():
     data = les_fil("C:\\Git\\adventskode\\2022\\data\\20221201.txt")
     alvedata = tell_kaloriar_per_alv(data)
     print(alvedata)
-    print(topp_tri(alvedata))
+    print(topp_tri_total(alvedata))
 
 if __name__ == "__main__":
     hovud()
