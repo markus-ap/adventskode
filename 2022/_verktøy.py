@@ -1,6 +1,6 @@
 def les_fil(filnamn):
     import os
-    filnamn = os.path.join(os.path.dirname(__file__), filnamn)
+    filnamn = os.path.join(os.path.dirname(__file__), f"data/{filnamn}")
     return open(filnamn).read()
 
 def hovud():
