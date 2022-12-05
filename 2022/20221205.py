@@ -60,8 +60,6 @@ def flytt_kassar(data):
 
 def hovud():
     data = les_fil("20221205.txt")
-    buntar = finn_buntar(data)
-    
     resultat = flytt_kassar(data)
     print(resultat)
 

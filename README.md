@@ -5,4 +5,6 @@ Mine løysningar for årets [adventskodekalender](https://adventofcode.com/2022)
 * [Andre desember i blåfjell](2022/20221202.py)
 * [Tredje desember i blåfjell](2022/20221203.py)
 * [Fjerde desember i blåfjell](2022/20221204.py)
-* [Femte desember i blåfjell](2022/20221205.py) <- __ikkje påbegynt__
+* [Femte desember i blåfjell](2022/20221205.py)
+* [Sjette desember i blåfjell](2022/20221206.py) <- __ikkje påbegynt__
+* [Syvande desember i blåfjell](2022/20221207.py) <- __ikkje påbegynt__
